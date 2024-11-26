@@ -11,7 +11,7 @@ Hello! I'm **Ujjwal Talwar**, a passionate **Software Engineer** based in **New 
 - **Gaming**: Love playing video games during my downtime.
 
 ## Contact
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ujjwal-talwar) or through my email!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ujjwal-talwar) or through my email!\
 www.ujjwaltalwar.com
 
 ---
